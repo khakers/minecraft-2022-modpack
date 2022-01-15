@@ -206,6 +206,11 @@ hash = "c5cd9a109d7ae9c4a157799764895cf12a4093d03869f376782cbcdd8416f6c6"
 metafile = true
 
 [[files]]
+file = "mods/lootr.toml"
+hash = "0f2ec6b23699f0392ea4434afafc94da2892dc0f25c359906794260282f02e73"
+metafile = true
+
+[[files]]
 file = "mods/minemenu.toml"
 hash = "0f4427fdf3255d0a52c7fcb1c3a537ca7a4a63649c5be8549355606cd9463012"
 metafile = true
