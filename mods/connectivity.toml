@@ -1,0 +1,13 @@
+name = "Connectivity"
+filename = "connectivity-1.18-2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3596/200/connectivity-1.18-2.6.jar"
+hash-format = "murmur2"
+hash = "1278396233"
+
+[update]
+[update.curseforge]
+file-id = 3596200
+project-id = 470193

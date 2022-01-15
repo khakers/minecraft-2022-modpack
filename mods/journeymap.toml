@@ -1,0 +1,13 @@
+name = "JourneyMap"
+filename = "journeymap-1.18.1-5.8.0beta8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3605/663/journeymap-1.18.1-5.8.0beta8.jar"
+hash-format = "murmur2"
+hash = "409313150"
+
+[update]
+[update.curseforge]
+file-id = 3605663
+project-id = 32274

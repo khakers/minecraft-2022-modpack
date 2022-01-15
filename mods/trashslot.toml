@@ -1,0 +1,13 @@
+name = "TrashSlot"
+filename = "trashslot-forge-1.18-11.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3549/375/trashslot-forge-1.18-11.0.0.jar"
+hash-format = "murmur2"
+hash = "1494410894"
+
+[update]
+[update.curseforge]
+file-id = 3549375
+project-id = 235577

@@ -1,0 +1,13 @@
+name = "MineMenu"
+filename = "MineMenu-1.18-1.10.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/634/MineMenu-1.18-1.10.0.jar"
+hash-format = "murmur2"
+hash = "3154770489"
+
+[update]
+[update.curseforge]
+file-id = 3544634
+project-id = 222378

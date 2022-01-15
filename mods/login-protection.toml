@@ -1,0 +1,13 @@
+name = "Login Protection[Forge/Fabric]"
+filename = "logprot-1.18-1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3548/736/logprot-1.18-1.4.jar"
+hash-format = "murmur2"
+hash = "972662297"
+
+[update]
+[update.curseforge]
+file-id = 3548736
+project-id = 358304

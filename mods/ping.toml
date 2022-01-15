@@ -1,0 +1,13 @@
+name = "Ping"
+filename = "Ping-1.18-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3544/622/Ping-1.18-1.8.0.jar"
+hash-format = "murmur2"
+hash = "1549483611"
+
+[update]
+[update.curseforge]
+file-id = 3544622
+project-id = 222967

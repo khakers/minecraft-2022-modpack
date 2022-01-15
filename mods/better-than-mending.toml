@@ -1,0 +1,13 @@
+name = "Better Than Mending"
+filename = "BetterThanMending-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3564/95/BetterThanMending-1.7.1.jar"
+hash-format = "murmur2"
+hash = "649184835"
+
+[update]
+[update.curseforge]
+file-id = 3564095
+project-id = 264738
