@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "987a5ea0b9e4a2af59472847ec16d875d171c104a3e450eb2d5a5b453c6f9ebe"
+hash = "de8859059993764a65c2eca1e9cb00300524cff1f1372275440fa98c7d494528"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "b0beac091438c7e94baf25a90fa5dcf6141b909887e129e20de074649c5f84dd"
+hash = "1c16752ef089c8697251b62807090ff6b9aaf86266b5fd35cba24507554c17e1"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/effective-forge.toml"
-hash = "9f2a76570b724f37a0b01b1b55e1b8ca11615fb7cf0edc54113ff2b40743f3e3"
+hash = "acd75d89d5ad85e3f43f9e465fb0fec50952fabdc476f57032d7503f804ca417"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight.toml"
-hash = "398a2dc17de5bf8eab7c85a71cea5319e80153de5e0ba02981c693d14170bbe9"
+hash = "c6848fda20e12a779a45fb4085c18ea97028f5d1b63139518adc44b37556431f"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-reducer.toml"
-hash = "df8392468be575d2a2439cb356d27971ea5cacdf4ae2634a294ce9c137e32280"
+hash = "b25f450133c3b250e55c71e2e152b6ba75391282dbcc94d22ba9ae4207e24267"
 metafile = true
 
 [[files]]
@@ -202,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/login-protection.toml"
-hash = "28a0074c159bb751c18375500c6eeaa2670ee5db2f07f36717978b2a61110483"
+hash = "c5cd9a109d7ae9c4a157799764895cf12a4093d03869f376782cbcdd8416f6c6"
 metafile = true
 
 [[files]]
 file = "mods/minemenu.toml"
-hash = "32f9bf468a157c900b9dd07490834158a3d28b5ba75496e56e33a97125a702e3"
+hash = "0f4427fdf3255d0a52c7fcb1c3a537ca7a4a63649c5be8549355606cd9463012"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.toml"
-hash = "87d36321e6c761f1d63c1320ca8901867169a8417abb5e371100cf126497c371"
+hash = "d2d80740d307fc599ac5ad68bbb5c2031251597008a4962080b68ccbce4d5f57"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.toml"
-hash = "ff7e4532d3292cb753704983c0651f6d78d490b8105925e4eeb47dde6506c8cb"
+hash = "1db5c3d3984f595baca7efc506a25c9c666a3459ce289c8d27ce9e41d9226e71"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterdripsound.toml"
-hash = "d57a21543f496b76d77a52be8c8f9196ce8c4bd851782d01b9a0ba06294f364d"
+hash = "8369804d8de7b33312af3b8878304b4825eb127d9143b427322a129bf717e315"
 metafile = true
 
 [[files]]

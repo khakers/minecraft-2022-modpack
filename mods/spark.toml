@@ -7,6 +7,11 @@ url = "https://edge.forgecdn.net/files/3591/172/spark-forge.jar"
 hash-format = "murmur2"
 hash = "1025101499"
 
+[option]
+default = false
+description = "Minecraft performance debuger"
+optional = true
+
 [update]
 [update.curseforge]
 file-id = 3591172

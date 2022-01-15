@@ -1,11 +1,16 @@
 name = "BetterF3"
 filename = "BetterF3-1.2.2-Forge-1.18.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3551/266/BetterF3-1.2.2-Forge-1.18.jar"
 hash-format = "murmur2"
 hash = "1924472981"
+
+[option]
+default = true
+description = "An Improved F3 menu, with Colors!"
+optional = true
 
 [update]
 [update.curseforge]

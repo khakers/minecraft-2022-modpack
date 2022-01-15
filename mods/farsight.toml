@@ -1,11 +1,16 @@
 name = "Farsight[Forge/Fabric]"
 filename = "farsight-1.18-1.6.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3604/395/farsight-1.18-1.6.jar"
 hash-format = "murmur2"
 hash = "879254218"
+
+[option]
+default = true
+description = "Bypasses the effects of low server render distance by showing chunks the client has already loaded at your render distance"
+optional = true
 
 [update]
 [update.curseforge]

@@ -1,11 +1,17 @@
 name = "Effective (Forge)"
 filename = "effective_for_forge-1.001.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3575/266/effective_for_forge-1.001.jar"
 hash-format = "murmur2"
 hash = "3006675011"
+
+[option]
+default = true
+description = "Adds some fancy effects to water"
+optional = true
+
 
 [update]
 [update.curseforge]

@@ -1,6 +1,6 @@
 name = "Login Protection[Forge/Fabric]"
 filename = "logprot-1.18-1.4.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3548/736/logprot-1.18-1.4.jar"
