@@ -6,6 +6,8 @@
 .gitattributes
 .gitignore
 
+.github/**
+
 # Exclude README
 /README.md
 

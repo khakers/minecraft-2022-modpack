@@ -1,0 +1,48 @@
+name: Generate Modpack Artifacts
+
+
+on:
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - ".github/**"
+      - ".gitignore"
+      - ".gitattributes"
+  pull_request:
+    branches: [ main ]
+  
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      
+      - name: Setup Go environment
+        uses: actions/setup-go@v2.1.5
+        with:
+          go-version: 1.17
+
+      - name: Install packwiz
+        run: go install github.com/packwiz/packwiz@latest
+
+      - name: generate curseforge modpack
+        run: packwiz curseforge export --side client
+
+      - name: Upload Assets
+        uses: actions/upload-artifact@v2.3.1
+        with:
+            name: curseforge_client
+            path: ./Create 2022.zip
+
+      - name: generate server curseforge modpack
+        run: packwiz curseforge export --side server 
+
+      - name: Upload pack assets
+        uses: actions/upload-artifact@v2.3.1
+        with:
+            name: curseforge_server
+            path: ./Create 2022.zip
+
