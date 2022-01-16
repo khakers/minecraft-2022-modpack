@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "8ecb44f4e273deb4cbe426dd7f28e4e4aabafd1272119fa34508fee55aa29411"
+hash = "b013530f3170dfa1f06686722da222593f8f3a9cc9d5e3133dec64ce7349e2ef"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.toml"
-hash = "d238abc191aa6d146d57bc0f6f4cae5e670222a7616a56b3c3fdb3d54a45e505"
+hash = "3d02f98ee8811df71d556097f376752e1a7dd73024540b34323d6150e7c15c00"
 metafile = true
 
 [[files]]
