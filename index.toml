@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.toml"
-hash = "6e4360e85ca527df8976803bfe5b377ab9a03cc805549a1f8c7ed33264e715cb"
+hash = "079d726e97e0432a6a506bde2c6766a633753d7c75128e8f87bd4cc49677a6fb"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.toml"
-hash = "71853a420d222e38d6299e1a9ed25fad6a229303b1f3d9331c6bd50887f6ba46"
+hash = "3b68624168a6d5886115a0b0f498ad389989149a5924f3e94dedec6203094299"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "020fb907fddbc76a9e7db7e2680e8498516bdb634ddf12b75b79b76ea4f6a0b3"
+hash = "cbe6d2cf1134a8beedae57b8082680a0075422c2a72036d1b1954d4c242aa426"
 metafile = true
 
 [[files]]
