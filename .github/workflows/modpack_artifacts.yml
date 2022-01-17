@@ -24,6 +24,15 @@ jobs:
         uses: actions/setup-go@v2.1.5
         with:
           go-version: 1.17
+      - uses: actions/cache@v2
+        with:
+          path: |
+            ~/go/pkg/mod
+            $GOPATH/bin
+            $GOPATH/pkg
+          key: ${{ runner.os }}-go
+          restore-keys: |
+            ${{ runner.os }}-go
 
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest
