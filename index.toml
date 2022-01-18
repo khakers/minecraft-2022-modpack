@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/chisels-bits.toml"
-hash = "079d726e97e0432a6a506bde2c6766a633753d7c75128e8f87bd4cc49677a6fb"
+hash = "5bd50914ca0e99e614553ead9744be20f1d374e7e8aaaa0da9e0386e2806de2f"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.toml"
-hash = "3b68624168a6d5886115a0b0f498ad389989149a5924f3e94dedec6203094299"
+hash = "f6f62e53ad85c7d648ae5b8c1d0db7e48c6c1543ad2ccad0f431f2dad52666ef"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "0f2ec6b23699f0392ea4434afafc94da2892dc0f25c359906794260282f02e73"
+hash = "0d4b7ce1cc7de7de63b716743640ebcdb1efbf03aa501abe5efb1195894c89e4"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.toml"
-hash = "78a36c209f11534b68bdcaefa5c18951d1da40add66c6596762c51fffafd69af"
+hash = "1a164ea87299d7d52a85915b93a4c64c1794cb65879e9749dcbe3aaa262a7b67"
 metafile = true
 
 [[files]]
@@ -316,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-drawers.toml"
-hash = "ae7d7cd9a246463b8168ffbc03850c99583aa274f3668ba3712575b60fe431fb"
+hash = "f05a8370fe979f6f1472df2f8f4596b15ca7507d38d73ebd7411b4dd19e3a50d"
 metafile = true
 
 [[files]]
