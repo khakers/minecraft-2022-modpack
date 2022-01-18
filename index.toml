@@ -205,6 +205,11 @@ hash = "b25f450133c3b250e55c71e2e152b6ba75391282dbcc94d22ba9ae4207e24267"
 metafile = true
 
 [[files]]
+file = "mods/jade.toml"
+hash = "16acffc8d5cdbf65a1f5442459e120e98e885b4a6a50a2a7f626534d7da039c4"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "ae3834544ffbd8746f83daaecd9ccf607c0a9ccf0353786b7ec62ba62c042198"
 metafile = true
