@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/metaphysics.toml"
+hash = "7432d3330930b9e22a6741d80488775a3682e051f79fdfd54d3b2fc9707972ad"
+
+[[files]]
+file = "config/Advancedperipherals/peripherals.toml"
+hash = "58ab43c3bf6ea2067a38aee362a0b855afc5cb9e9b1b1b760561102dd4f3da63"
+
+[[files]]
+file = "config/logprot-common.toml"
+hash = "5a0194a14de9b52d9c7b9cbbcb95a7c851dc68cea6a8520c3cd58bba393e4624"
+
+[[files]]
+file = "config/lootr-common.toml"
+hash = "e4fd74dcb3e0e3b6b2001b3c7aa2bc31a514f5b732becd91a707792c67ec8b86"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "f0e356f6bbc88b9853856322864ef3842ceb15266cb987be2006abe7822da7b2"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "7757533b27c74ae1e14b07ee471d9a69fba2c62730a121f66f6bd4b4d9ffbd44"
+
+[[files]]
 file = "mods/advanced-chimneys.toml"
 hash = "90e4977406756fc281f14a16fa7c76c63880aa69b9fd7db686a0d90c464d9390"
 metafile = true
