@@ -140,6 +140,11 @@ hash = "aa7f34806c6c85fcd34b53f9a704b3e25929c825e585228d21ef6582f0e5bb48"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.toml"
+hash = "b3b2933b97aeafdfab0d12ae9a7679cdce049ad8c53459125dff84490c98bff2"
+metafile = true
+
+[[files]]
 file = "mods/create.toml"
 hash = "c430c78ccb3dcbfa25fd71a53ea7afc806ce8ad19ca53ee7cdefad8f8fd812a7"
 metafile = true
