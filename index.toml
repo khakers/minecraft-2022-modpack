@@ -170,11 +170,6 @@ hash = "d2ffcb1af543708cbb135022efea1dcaa751924f751d81409da9698dd436f720"
 metafile = true
 
 [[files]]
-file = "mods/effective-forge.toml"
-hash = "acd75d89d5ad85e3f43f9e465fb0fec50952fabdc476f57032d7503f804ca417"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.toml"
 hash = "f6f62e53ad85c7d648ae5b8c1d0db7e48c6c1543ad2ccad0f431f2dad52666ef"
 metafile = true
