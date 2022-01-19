@@ -150,18 +150,13 @@ hash = "c430c78ccb3dcbfa25fd71a53ea7afc806ce8ad19ca53ee7cdefad8f8fd812a7"
 metafile = true
 
 [[files]]
-file = "mods/createfoodadditions.toml"
-hash = "d2f0942146391b10efbdd4e40677ef85de81aa8f7fe6c7d086f4df164ed85605"
-metafile = true
-
-[[files]]
 file = "mods/curio-of-undying.toml"
 hash = "6eabd76cb04ea1de6bb66de40585c71f12e453280324055f36a8a4d8637431f0"
 metafile = true
 
 [[files]]
 file = "mods/curios.toml"
-hash = "b013530f3170dfa1f06686722da222593f8f3a9cc9d5e3133dec64ce7349e2ef"
+hash = "128a5c22136349de92e6b1ff30e9127f6d3b9f9d1a4fdf7e1dbe860cb2dfb73b"
 metafile = true
 
 [[files]]
@@ -211,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "cbe6d2cf1134a8beedae57b8082680a0075422c2a72036d1b1954d4c242aa426"
+hash = "1a30019b4d47b0e49234f113a6e27bf980c3e84aa8a1ff856b53ff0b56feb526"
 metafile = true
 
 [[files]]
@@ -241,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/mutil.toml"
-hash = "f947563f083d103b09bb4fe655cf8fc91df4f1df3f4bec443a8b458bdd1d290f"
+hash = "e1b5acc214efff83dddbf25c046948d7b640560b2ace465bbda08cf0b78d05fe"
 metafile = true
 
 [[files]]
@@ -341,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.toml"
-hash = "a3fb25a62437e302faab1a710c437db4841121050ce9717479cab9696ffae6c8"
+hash = "f687212a2d69afe5db218a4c31010172f212553dea400be202649cccb08b638f"
 metafile = true
 
 [[files]]
