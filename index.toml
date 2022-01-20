@@ -25,6 +25,34 @@ file = "config/supplementaries-common.toml"
 hash = "7757533b27c74ae1e14b07ee471d9a69fba2c62730a121f66f6bd4b4d9ffbd44"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/client_scripts/script.js"
+hash = "c28822e76725fe8105a4f3db83d318c3ba18fade12287bda2c457e349cca570c"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "f92499b0262a97cf1343ebed6a1ae66ec0fe3606129a3f7992bbb79767680c3e"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "2a878470827496bd6aae3633debab632473b6d4887809af0d269f558aad59f3f"
+
+[[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "572901634b6d8f68639017f905c327c73d0db6d4a8241c38d7e180421e398bf7"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "ca2ce4076ae6454d1e0683508eda052287f51c0a2e4f1b2ea6263ca96afdb244"
+
+[[files]]
 file = "mods/advanced-chimneys.toml"
 hash = "90e4977406756fc281f14a16fa7c76c63880aa69b9fd7db686a0d90c464d9390"
 metafile = true
@@ -37,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.toml"
 hash = "8077aaa2f57a009dcf93104b1c6a49e77bb38dd16384c6f01a1bfa878c14abc3"
+metafile = true
+
+[[files]]
+file = "mods/architectury-forge.toml"
+hash = "7400e11db73b02073034591623bd87a6b0df7c3dd25745b754de36462f06328b"
 metafile = true
 
 [[files]]
@@ -220,6 +253,16 @@ hash = "0865e774f49001ac274533d4cc065675f7ad5559df73db841cd7c236df8e4496"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-create.toml"
+hash = "64fba32fdfb8281c241b79da1677a419afa843d641d7d19571d8ad3cefdd9d6f"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-forge.toml"
+hash = "caa3096d87b47da03c891c6f06e0862cad5a5958122d7f052de473eaaa53eb0a"
+metafile = true
+
+[[files]]
 file = "mods/login-protection.toml"
 hash = "c5cd9a109d7ae9c4a157799764895cf12a4093d03869f376782cbcdd8416f6c6"
 metafile = true
@@ -277,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures.toml"
 hash = "1a164ea87299d7d52a85915b93a4c64c1794cb65879e9749dcbe3aaa262a7b67"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "bd413f6b2f93ed222b29d88cc47260d5c810ed7a789e446e95a32bcfaa5c496a"
 metafile = true
 
 [[files]]

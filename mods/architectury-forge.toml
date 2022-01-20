@@ -1,0 +1,13 @@
+name = "Architectury API (Forge)"
+filename = "architectury-3.4.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3587/338/architectury-3.4.9.jar"
+hash-format = "murmur2"
+hash = "645376030"
+
+[update]
+[update.curseforge]
+file-id = 3587338
+project-id = 419699

@@ -16,3 +16,5 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+README.txt
