@@ -9,6 +9,18 @@ file = "config/Advancedperipherals/peripherals.toml"
 hash = "58ab43c3bf6ea2067a38aee362a0b855afc5cb9e9b1b1b760561102dd4f3da63"
 
 [[files]]
+file = "config/adpother/Pollutants/carbon.cfg"
+hash = "4449e0422099384df3523f6020886f555bb1c3d9cd5e1494f7077f87c37acfde"
+
+[[files]]
+file = "config/adpother/Pollutants/dust.cfg"
+hash = "ef176a4f1c71c0610e8185a408cb5d634869169a023e7bb2b876a04b40e02d30"
+
+[[files]]
+file = "config/adpother/Pollutants/sulfur.cfg"
+hash = "3b9af62a79166e5539530e5f1ce21bf1def559982f1949c3497a116d4d23f171"
+
+[[files]]
 file = "config/logprot-common.toml"
 hash = "5a0194a14de9b52d9c7b9cbbcb95a7c851dc68cea6a8520c3cd58bba393e4624"
 
