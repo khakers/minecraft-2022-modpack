@@ -135,6 +135,11 @@ hash = "5bd50914ca0e99e614553ead9744be20f1d374e7e8aaaa0da9e0386e2806de2f"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.toml"
+hash = "27e58c4a5a2ddab95aab95c29c5af5273a5cf097ad22c766fda2e93c02056d2c"
+metafile = true
+
+[[files]]
 file = "mods/clickable-advancements.toml"
 hash = "df911b98d5890cda443d2b3de2ba758c24ce28ee84b2d0f46b85aabad5c16475"
 metafile = true
@@ -211,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.toml"
-hash = "f6f62e53ad85c7d648ae5b8c1d0db7e48c6c1543ad2ccad0f431f2dad52666ef"
+hash = "88351dc519661f1188deeb92e211c051d79ce860750c6c3630ba5bad949c4c42"
 metafile = true
 
 [[files]]
@@ -241,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.toml"
-hash = "16acffc8d5cdbf65a1f5442459e120e98e885b4a6a50a2a7f626534d7da039c4"
+hash = "7aac31cb5b718fd2968b3b1172ee3f9cd3a98c0979a7fd3bdee907417e312799"
 metafile = true
 
 [[files]]
@@ -331,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.toml"
-hash = "1a164ea87299d7d52a85915b93a4c64c1794cb65879e9749dcbe3aaa262a7b67"
+hash = "f01cb78d72f1158a3834eb4ba37b9b31218df1c5188cec9e67eef00ffd0634ac"
 metafile = true
 
 [[files]]

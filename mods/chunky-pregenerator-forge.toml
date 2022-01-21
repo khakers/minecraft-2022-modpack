@@ -1,0 +1,13 @@
+name = "Chunky Pregenerator (Forge)"
+filename = "Chunky-1.2.164.jar"
+side = "server"
+
+[download]
+url = "https://edge.forgecdn.net/files/3579/662/Chunky-1.2.164.jar"
+hash-format = "murmur2"
+hash = "113536878"
+
+[update]
+[update.curseforge]
+file-id = 3579662
+project-id = 485681
