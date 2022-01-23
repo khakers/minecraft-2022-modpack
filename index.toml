@@ -22,7 +22,7 @@ hash = "3b9af62a79166e5539530e5f1ce21bf1def559982f1949c3497a116d4d23f171"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "039aa1ed0a9fb9c57845132878823c33e1833d50c059432a9477218d7c67f9b8"
+hash = "0d99a4e000f1ab0e043cc5f2d5a6c6bd12d6bec6bf59ecadabf6eb6c643a2f0d"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "dd0ccb8e0cd959bfd2f839ea830229d6c202f85cc01db46db23cb4e2a55438db"
+hash = "cb4c211a99ac5202ac00e61c599def5e67d3f256ea7637e15ca466f3c1779a99"
 metafile = true
 
 [[files]]
