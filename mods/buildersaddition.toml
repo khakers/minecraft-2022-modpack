@@ -1,13 +1,13 @@
 name = "Builders Crafts & Additions (Forge)"
-filename = "buildersaddition-1.18-20211208a.jar"
+filename = "buildersaddition-1.18.1-20220123a.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3554/342/buildersaddition-1.18-20211208a.jar"
+url = "https://edge.forgecdn.net/files/3620/249/buildersaddition-1.18.1-20220123a.jar"
 hash-format = "murmur2"
-hash = "773338877"
+hash = "3200424169"
 
 [update]
 [update.curseforge]
-file-id = 3554342
+file-id = 3620249
 project-id = 389697

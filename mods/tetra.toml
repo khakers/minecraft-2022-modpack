@@ -1,13 +1,13 @@
 name = "Tetra"
-filename = "tetra-1.18.1-4.4.0.jar"
+filename = "tetra-1.18.1-4.5.0.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3612/480/tetra-1.18.1-4.4.0.jar"
+url = "https://edge.forgecdn.net/files/3620/466/tetra-1.18.1-4.5.0.jar"
 hash-format = "murmur2"
-hash = "1925455513"
+hash = "411383981"
 
 [update]
 [update.curseforge]
-file-id = 3612480
+file-id = 3620466
 project-id = 289712

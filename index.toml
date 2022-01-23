@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/buildersaddition.toml"
-hash = "f9adf1c78fb55de8147a52936d761a04113ca9feeddc18f0d40ecbfd9d32ffaa"
+hash = "093fad38b867bc72462e9188ae730c052f28ac6a0897a96d2ba08247e015ff96"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.toml"
-hash = "1a30019b4d47b0e49234f113a6e27bf980c3e84aa8a1ff856b53ff0b56feb526"
+hash = "d810d1dc91e0fd9c848a727b5f75e3d21d130a5adecb694b9f1c8cb940ccdc83"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/tetra.toml"
-hash = "f687212a2d69afe5db218a4c31010172f212553dea400be202649cccb08b638f"
+hash = "afb8f13ea8a474d531e2c6627ceb374b2085a74eb7e0a32936a1225bc0f6f7fe"
 metafile = true
 
 [[files]]
