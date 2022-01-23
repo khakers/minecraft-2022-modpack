@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config-forge.toml"
-hash = "d9709db6e0980b80a47f97eeeb1a2dc9cc8b3054b8481f70bd551600a33789d5"
+hash = "1a2e27e1a8cbee1a4190f10c655496c8f98e7de8156c98269bdff3e4773dca04"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "1c16752ef089c8697251b62807090ff6b9aaf86266b5fd35cba24507554c17e1"
+hash = "40074173e2f562f3ba22c3d48c9b2ec60f376d1a7c624339733910bd2162296c"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/decorative-blocks.toml"
-hash = "d2ffcb1af543708cbb135022efea1dcaa751924f751d81409da9698dd436f720"
+hash = "2ada67043118d2eae438f4fef6e448950f2cd3d360501b4af2286c50379ddf1f"
 metafile = true
 
 [[files]]
@@ -222,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/farsight.toml"
 hash = "c6848fda20e12a779a45fb4085c18ea97028f5d1b63139518adc44b37556431f"
+metafile = true
+
+[[files]]
+file = "mods/feature-nbt-deadlock-be-gone.toml"
+hash = "3c4ac3340cc8bc70ff11fac0389e93c80a7ae6a578c06ec5bbdafb26e207c612"
 metafile = true
 
 [[files]]
@@ -286,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.toml"
-hash = "0d4b7ce1cc7de7de63b716743640ebcdb1efbf03aa501abe5efb1195894c89e4"
+hash = "ed750b1ecee0e2617527b5e489b13aa4118d701141cdf9dad83f2b1ec4bb3525"
 metafile = true
 
 [[files]]
@@ -302,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.toml"
 hash = "6969158039fd084e620bbe9d806afa5dc9b65485b43f9d17ce1074ffe15272c9"
+metafile = true
+
+[[files]]
+file = "mods/no-null-processors.toml"
+hash = "38d32947228527f358888a0c027522f0e4354d067c766efb74e3226cb0e614e4"
 metafile = true
 
 [[files]]
@@ -336,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures.toml"
-hash = "f01cb78d72f1158a3834eb4ba37b9b31218df1c5188cec9e67eef00ffd0634ac"
+hash = "bd7445ed5de2361af774f7d4114250c3acb0dbf8f37b780134944c780303adef"
 metafile = true
 
 [[files]]
@@ -347,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/selene.toml"
 hash = "0359ef9811a0613b615bb7442a2dbf24021604acf1fc8cf4e0c7037e494ed521"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "7a3f1576401ab974a98697f229ec2e4d5adba0aea0b8ed912a5dca23ce8499b0"
 metafile = true
 
 [[files]]
