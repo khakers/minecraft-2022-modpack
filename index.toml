@@ -21,6 +21,46 @@ file = "config/adpother/Pollutants/sulfur.cfg"
 hash = "3b9af62a79166e5539530e5f1ce21bf1def559982f1949c3497a116d4d23f171"
 
 [[files]]
+file = "config/fancymenu/config.txt"
+hash = "039aa1ed0a9fb9c57845132878823c33e1833d50c059432a9477218d7c67f9b8"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "ba289e6ccc381923abf1f110d35adda3336b64ab7bd7e61b425ed5c55a4de007"
+
+[[files]]
+file = "config/fancymenu/customization/mp-base.txt"
+hash = "2a78b8a268fe7a7f07269de6bbb934a2b358fa8243aaa185662ddf0a1457161b"
+
+[[files]]
+file = "config/fancymenu/customization/options-base.txt"
+hash = "1c3b76862a2c3437d110614a177a8f32e7829491ada8cd27eda4bba3ce3f39a5"
+
+[[files]]
+file = "config/fancymenu/locals/de_de.local"
+hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
+
+[[files]]
+file = "config/fancymenu/locals/en_us.local"
+hash = "e21583522c39664d3bfbcdb8211aba95ff9e01d338df1038913fa31eddd6d2ad"
+
+[[files]]
+file = "config/fancymenu/locals/pl_pl.local"
+hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
+
+[[files]]
+file = "config/fancymenu/locals/pt_br.local"
+hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
+
+[[files]]
+file = "config/fancymenu/locals/zh_cn.local"
+hash = "9cee147fc2141820fbbd1db1d43ea0f14e6a265ba1b8958d2e57e8acadfd06bc"
+
+[[files]]
+file = "config/fancymenu/menu_identifiers.db"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
 file = "config/logprot-common.toml"
 hash = "5a0194a14de9b52d9c7b9cbbcb95a7c851dc68cea6a8520c3cd58bba393e4624"
 
@@ -215,6 +255,11 @@ hash = "2ada67043118d2eae438f4fef6e448950f2cd3d360501b4af2286c50379ddf1f"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu-forge.toml"
+hash = "dd0ccb8e0cd959bfd2f839ea830229d6c202f85cc01db46db23cb4e2a55438db"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.toml"
 hash = "88351dc519661f1188deeb92e211c051d79ce860750c6c3630ba5bad949c4c42"
 metafile = true
@@ -272,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.toml"
 hash = "0865e774f49001ac274533d4cc065675f7ad5559df73db841cd7c236df8e4496"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.toml"
+hash = "31f2c0b80e244e1ad8cee6ad639700a5a7906cee88c1c9b68a82b358fb38c88e"
 metafile = true
 
 [[files]]

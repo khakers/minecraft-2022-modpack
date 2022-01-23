@@ -1,0 +1,31 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.OptionsScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = element
+  restartbackgroundanimations = true
+  buttonaction = opengui
+  label = Keybinds
+  loopbackgroundanimations = true
+  orientation_element = vanillabtn:505232
+  x = 154
+  width = 55
+  actionid = ad5f4909-f8d3-48f0-9bd0-1ee8c51dede81642926375580
+  action = addbutton
+  y = 0
+  value = com.blamejared.controlling.client.NewKeyBindsScreen
+  height = 20
+}
+
