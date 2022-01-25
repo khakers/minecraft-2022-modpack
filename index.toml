@@ -21,6 +21,10 @@ file = "config/adpother/Pollutants/sulfur.cfg"
 hash = "3b9af62a79166e5539530e5f1ce21bf1def559982f1949c3497a116d4d23f171"
 
 [[files]]
+file = "config/bcc-common.toml"
+hash = "967d1cf903d6b00afebfeac60389b63490726c7c59d416418cdc98135bdcae62"
+
+[[files]]
 file = "config/fancymenu/config.txt"
 hash = "0d99a4e000f1ab0e043cc5f2d5a6c6bd12d6bec6bf59ecadabf6eb6c643a2f0d"
 
@@ -137,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.toml"
 hash = "81036d8ff901dc1eb06b8371a2eb1aa87df12f9f968399cd83befabd1769d5ce"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.toml"
+hash = "ff58981fed333f23cc857a700bfeba9e46fad1a427057ada66a819b475986f4e"
 metafile = true
 
 [[files]]
