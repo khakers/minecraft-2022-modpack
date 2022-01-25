@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.toml"
-hash = "cb4c211a99ac5202ac00e61c599def5e67d3f256ea7637e15ca466f3c1779a99"
+hash = "0227958359ff528500c84102f2cb3f361b1b4c41efd910ad84c94e9c2db2e075"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.toml"
-hash = "7a3f1576401ab974a98697f229ec2e4d5adba0aea0b8ed912a5dca23ce8499b0"
+hash = "fb17fffdd7cee0b5d92e10a2017e358eee331054640dd9d4ae231e444edc7465"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.toml"
-hash = "3d02f98ee8811df71d556097f376752e1a7dd73024540b34323d6150e7c15c00"
+hash = "9a4a91154667b914f076a4441c109402687bfa65069de96249a0884f5654191d"
 metafile = true
 
 [[files]]
