@@ -374,6 +374,11 @@ hash = "38d32947228527f358888a0c027522f0e4354d067c766efb74e3226cb0e614e4"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-crashes-forge.toml"
+hash = "2cc92ce79a2fb7b249e0e20f0a8ccefeff496aeedc8e866e26fc3b75b30af91d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.toml"
 hash = "69805447657da38833e5a5da14f26e7b643a206a7e6ad6293e54ce0cc21cff05"
 metafile = true
