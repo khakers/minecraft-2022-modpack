@@ -20,19 +20,18 @@ onEvent('block.registry', event => {
 })
 
 onEvent('fluid.registry', event => {
-	event.create('hot_cocoa', fluid => {
-		fluid.textureThick(0x533c2f)
-		fluid.bucketColor(0x533c2f)
-		fluid.displayName('Hot Cocoa')
-	})
-	event.create('apple_cider', fluid => {
-		fluid.textureThin(0x86462A)
-		fluid.bucketColor(0x86462A)
-		fluid.displayName('Apple Cider')
-	})
-	event.create('melon_juice', fluid => {
-		fluid.textureThin(0xe11a2b)
-		fluid.bucketColor(0xe11a2b)
-		fluid.displayName('Melon Juice')
-	})
+	event.create('hot_cocoa')
+		.thickTexture(0x533c2f)
+		.bucketColor(0x533c2f)
+		.displayName('Hot Cocoa')
+
+	event.create('apple_cider')
+		.thickTexture(0x86462A)
+		.bucketColor(0x86462A)
+		.displayName('Apple Cider')
+
+	event.create('melon_juice')
+		.thickTexture(0xe11a2b)
+		.bucketColor(0xe11a2b)
+		.displayName('Melon Juice')
 })

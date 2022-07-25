@@ -34,7 +34,7 @@ hash = "ba289e6ccc381923abf1f110d35adda3336b64ab7bd7e61b425ed5c55a4de007"
 
 [[files]]
 file = "config/fancymenu/customization/mp-base.txt"
-hash = "786224a28c2beaf744525cf5bbff6b35e8b096aa4201667f280e47c25b4adf84"
+hash = "9d0e4c9f8004c42b215a6ce75e796433644cddfce4917295e39445dfe0aaa201"
 
 [[files]]
 file = "config/fancymenu/customization/options-base.txt"
@@ -43,6 +43,10 @@ hash = "1c3b76862a2c3437d110614a177a8f32e7829491ada8cd27eda4bba3ce3f39a5"
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
+
+[[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "cf7df1199fa82b18c9224c14cd4b4303b5151b10c7247d51d2849c9dddee160b"
 
 [[files]]
 file = "config/logprot-common.toml"
@@ -82,11 +86,11 @@ hash = "2a878470827496bd6aae3633debab632473b6d4887809af0d269f558aad59f3f"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "bf162b46e412ec84b0d1692e75d4aeb4cdab271a7ff8d24eeafe13c32f6a91d9"
+hash = "9b0a89889615e98a348a0b6a8418b91a628afba3972c7f78b95716a700b5e16b"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "ca2ce4076ae6454d1e0683508eda052287f51c0a2e4f1b2ea6263ca96afdb244"
+hash = "ad4eeb480ed59f98639e2870a576d8637db964b2e86cd86c4dc2870dc9a33733"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

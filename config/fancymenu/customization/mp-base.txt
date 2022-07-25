@@ -276,7 +276,7 @@ customization {
   scale = 1.5
   refresh = false
   bouncing = false
-  vr:value:windowheightbiggerthan = 800
+  vr:value:windowheightbiggerthan = 600
   vanilla-like = false
   orientation_element = vanillabtn:400298
   x = 60

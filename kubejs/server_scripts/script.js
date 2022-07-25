@@ -89,7 +89,7 @@ onEvent("recipes", (event) => {
 		Fluid.of(melon_fluid, 250)
 	], melon_item)
 
-	event.smoking('3x minecraft:rotten_flesh', 'minecraft:leather')
+	event.smoking('1x minecraft:leather', '3x minecraft:rotten_flesh')
 });
 
 onEvent("item.tags", (event) => {
