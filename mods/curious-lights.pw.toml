@@ -1,0 +1,13 @@
+name = "Curious Lights"
+filename = "curiouslights-forge-1.1.0+1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8ad7577cad4a6e2c7cc84f00abcbed67c7dc5f3a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3752209
+project-id = 602199

@@ -1,0 +1,13 @@
+name = "Build Guide (Forge+Fabric)"
+filename = "BuildGuide-Forge-1.18.2-0.3.3-preview.jar"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "bc2704bd0a6da08f4f71049a3d4685c9932a74a3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3774056
+project-id = 465690

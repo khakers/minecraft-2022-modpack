@@ -1,13 +1,13 @@
 name = "Advanced Chimneys"
-filename = "AdChimneys-1.18.1-7.0.0.1-build.0043.jar"
+filename = "AdChimneys-1.18.2-8.3.0.0-build.1016.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3578/103/AdChimneys-1.18.1-7.0.0.1-build.0043.jar"
-hash-format = "murmur2"
-hash = "3101666201"
+hash-format = "sha1"
+hash = "11a7384dc5dc862f21be8d1b736b606d5e8f57b6"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3578103
+file-id = 3864196
 project-id = 244830

@@ -1,0 +1,13 @@
+name = "Immersive FX"
+filename = "ImmersiveFX 1.0.0gm 1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4ea0b068ab534dd7ae20b2bb50fb4e408afc41ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3829638
+project-id = 563495

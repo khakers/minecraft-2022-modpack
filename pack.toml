@@ -1,11 +1,11 @@
 name = "Create 2022"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4eeefb01cbf5c38a53cf4b205b14001fa87e142eca063dddab22a065c73c7f41"
+hash = "4a5b1d9135038f4b13225c040ed7c5ad1b2668dd026592fe9360c47c4ad4bf0f"
 
 [versions]
-forge = "39.0.59"
-minecraft = "1.18.1"
+forge = "40.1.68"
+minecraft = "1.18.2"
