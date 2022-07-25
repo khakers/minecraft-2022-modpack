@@ -22,7 +22,7 @@ hash = "3b9af62a79166e5539530e5f1ce21bf1def559982f1949c3497a116d4d23f171"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "b256c7eab6b3d3fb7ad85701924ed8154b4a5d85dd9835715e05d7a4cc1017fe"
+hash = "d78c15908d6c7d7162b4cd89d5bb168bc72e16e131ce643b6dd74b83162d2fd1"
 
 [[files]]
 file = "config/fancymenu/config.txt"
@@ -102,7 +102,7 @@ hash = "2a878470827496bd6aae3633debab632473b6d4887809af0d269f558aad59f3f"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "aec05dee0369f134f95ce866ffa5b600a36c0b2d939baa1ad6b17a2d9d6f4ed4"
+hash = "bf162b46e412ec84b0d1692e75d4aeb4cdab271a7ff8d24eeafe13c32f6a91d9"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
@@ -112,6 +112,10 @@ hash = "ca2ce4076ae6454d1e0683508eda052287f51c0a2e4f1b2ea6263ca96afdb244"
 file = "mods/3dskinlayers.pw.toml"
 hash = "04ba6cf35f4eac9774629993105cfcdb0071b6388797a39b6064f5d82b6aad20"
 metafile = true
+
+[[files]]
+file = "mods/ImmersiveFX+1.0.0gm+1.18.2.jar"
+hash = "358cf0ae8de4233ea83d717a65a9db949bac319da39d1f828c84eb9b9c5180d4"
 
 [[files]]
 file = "mods/advanced-chimneys.toml"
@@ -130,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "b269cdcedbb3c4c24475380171b72594ea288de8254cf42fb679a65ffefe94df"
+hash = "ee6842d5149f3dacc17f1c3b7c9e8cdf55131185a98df5c5845cec52841f0096"
 metafile = true
 
 [[files]]
@@ -164,18 +168,13 @@ hash = "223a510abfe8e92a29a957f0d7b2c1bb1109e443b65e9c2094e7c6c0a80a7b7b"
 metafile = true
 
 [[files]]
-file = "mods/betterloadingscreen.pw.toml"
-hash = "39c94141868ff9fd24946afe3ba61e9f39d042339860aef0cbb97bd8dc93b988"
-metafile = true
-
-[[files]]
 file = "mods/bow-infinity-fix.toml"
 hash = "93ab6b4f4cbb25ad3a6fca0529e8d6cfbda5c3ad4674bf9ca67b1a9e9c841d4f"
 metafile = true
 
 [[files]]
 file = "mods/build-guide.pw.toml"
-hash = "fe4f6b72493d373bbc191358292343447bdb12673b99c8b366ab41c4a1964289"
+hash = "a39be740dbc82f390d4706f367240eaed90aea292771d6e1b726c3a36e9d0af1"
 metafile = true
 
 [[files]]
@@ -265,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-chunkloading.toml"
-hash = "b5c7b4e6bba45505eddd3addb5240cac33c082d790f7278353ca77bbb76dbc63"
+hash = "99c9c05bcfaf416d6e807b30d0821de667b283e9c43562bdf4ea384121d77a7d"
 metafile = true
 
 [[files]]
@@ -292,6 +291,10 @@ metafile = true
 file = "mods/curious-lights.pw.toml"
 hash = "1f028406699c1a85468cefbe822e16e0b985d9df9a1b5c08603c10bcd369e0d1"
 metafile = true
+
+[[files]]
+file = "mods/curiouslanterns-1.18.2-1.1.0.jar"
+hash = "0cbc81bd43ff7a90642c91fcd30a2b6163bbebcc61e12a705b2eb297792fe245"
 
 [[files]]
 file = "mods/decorative-blocks.toml"
@@ -359,11 +362,6 @@ hash = "611923d145de1b911e612479fa3edc60364a466a55f5c77dc8e55a91e2ec74a7"
 metafile = true
 
 [[files]]
-file = "mods/immersive-fx.pw.toml"
-hash = "4c1926e92a4d6bb54c9bb5e90aeac3a0771a65d63519f68a8c419832de86ca3a"
-metafile = true
-
-[[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "083d76e454b804a014d85839ba2a014039ad8d442fafafc238f73795abf83fbd"
 metafile = true
@@ -374,7 +372,7 @@ hash = "49b7f862fe68e3601d35528fe062b5a68a34887ffc2ea1d852bf92017bd80774"
 metafile = true
 
 [[files]]
-file = "mods/jei.toml"
+file = "mods/jei.pw.toml"
 hash = "3e6d5d17bdaa70ae054b4ee2ed06fdad1f9b56cce452af0105d2956ea239a7da"
 metafile = true
 
@@ -385,7 +383,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.toml"
-hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
+hash = "618305c7eb3e4041cc6cc630b3eecbfd897f57736796b42e50629bd85eedee33"
 metafile = true
 
 [[files]]
@@ -505,13 +503,17 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "4a0250281f511dde4c46b577c2547052fb5999ac065defd6dc3d3058cb5c7069"
+hash = "6060f946f071cec9b66f96040bf36901241bce5e1d1de7bf2ba485dbea83df98"
 metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "a765e2532653e60cb187460774548380aeb726ecfd11108648bd21910e95a7fd"
 metafile = true
+
+[[files]]
+file = "mods/rubidium_extras-1.18.2_v1.3.2-alpha+patch-no-jei.jar"
+hash = "f7d4a4b932a52c8401ba4b7fb8cfdc797e459bcf81cc8a7f4b8c5374b081ee8c"
 
 [[files]]
 file = "mods/selene.toml"
@@ -524,9 +526,8 @@ hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
 
 [[files]]
-file = "mods/smooth-boot-reloaded.pw.toml"
-hash = "d3771c9ea207ea51c7f6717b7dab1853130635b4506bbe88e9c7b4c1a5909479"
-metafile = true
+file = "mods/smoothboot-mc1.18.2-1.0.0.jar"
+hash = "44cd1f78c1ac27525aae705c8e17e032346ddaf9e99fa3b5f821be65658644b9"
 
 [[files]]
 file = "mods/snow-real-magic.toml"
