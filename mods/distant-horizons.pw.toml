@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3863541
 project-id = 508933
+
+[option]
+optional = true
+description = "Vastly increase render distance with low FPS impact using LODs. Seems to consume a lot of ram and can eat your cpu but it looks amazing"
+default = true

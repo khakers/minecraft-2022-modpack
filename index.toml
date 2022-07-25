@@ -26,7 +26,7 @@ hash = "d78c15908d6c7d7162b4cd89d5bb168bc72e16e131ce643b6dd74b83162d2fd1"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "0d99a4e000f1ab0e043cc5f2d5a6c6bd12d6bec6bf59ecadabf6eb6c643a2f0d"
+hash = "b2d88e51756e2a5a9da867ec42463c338fe7897af4bce50511a4f63db0e01aac"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -34,31 +34,11 @@ hash = "ba289e6ccc381923abf1f110d35adda3336b64ab7bd7e61b425ed5c55a4de007"
 
 [[files]]
 file = "config/fancymenu/customization/mp-base.txt"
-hash = "2a78b8a268fe7a7f07269de6bbb934a2b358fa8243aaa185662ddf0a1457161b"
+hash = "786224a28c2beaf744525cf5bbff6b35e8b096aa4201667f280e47c25b4adf84"
 
 [[files]]
 file = "config/fancymenu/customization/options-base.txt"
 hash = "1c3b76862a2c3437d110614a177a8f32e7829491ada8cd27eda4bba3ce3f39a5"
-
-[[files]]
-file = "config/fancymenu/locals/de_de.local"
-hash = "362e9a1b4480f5f8f52724f7f678b5899c92b5ac5cd14ddaeda533bb78721195"
-
-[[files]]
-file = "config/fancymenu/locals/en_us.local"
-hash = "e21583522c39664d3bfbcdb8211aba95ff9e01d338df1038913fa31eddd6d2ad"
-
-[[files]]
-file = "config/fancymenu/locals/pl_pl.local"
-hash = "82ee4c2444f37d9f011b7b945df1f05026e9910f6c02cf900a3b5e17871a81f3"
-
-[[files]]
-file = "config/fancymenu/locals/pt_br.local"
-hash = "c7c049bf3190cc0572bef5fb636fa80d775211962cdbede7bd284d072692eb91"
-
-[[files]]
-file = "config/fancymenu/locals/zh_cn.local"
-hash = "9cee147fc2141820fbbd1db1d43ea0f14e6a265ba1b8958d2e57e8acadfd06bc"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
@@ -303,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "df310cdfe88e21419bbc9e6d3a476e3adc568bb763ca7e6d6c1102db458b6e23"
+hash = "7ae932e7ac9ed7e175596a49a33f6f6272012e8d83adf8918735f096e516ae5c"
 metafile = true
 
 [[files]]
