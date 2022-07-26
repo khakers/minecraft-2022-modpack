@@ -486,9 +486,8 @@ hash = "7e7f52b898a62041d50f7ae2d9b1b639aabc1facd23f23795e99bf210574f9b1"
 metafile = true
 
 [[files]]
-file = "mods/repurposed-structures.toml"
-hash = "6d90703590e13b8233fa9572f5306b87d4b56930905eca96b9a9834e122cb6bc"
-metafile = true
+file = "mods/repurposed_structures_forge-5.1.14+1.18.2+log-patch.jar"
+hash = "43118e7ebe3a055a59737ca2c7bdcdcf6258ab05e7bac75b48ad91d0265f9364"
 
 [[files]]
 file = "mods/rhino.toml"
