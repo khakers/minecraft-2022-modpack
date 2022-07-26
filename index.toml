@@ -296,6 +296,11 @@ hash = "e002e663f917dc976a7e446b7ee963a7ab78fedb08d0bcad428f55efad3bcffc"
 metafile = true
 
 [[files]]
+file = "mods/endremastered.pw.toml"
+hash = "839ffdcd02eece466ea5cc5f4bac8de9d2d9eba172a69820d6472e80b88eb1c7"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "19606ab27816a0df2897872b15dc286597fdb86ecd3a1a759a0eb526403f16fc"
 metafile = true
