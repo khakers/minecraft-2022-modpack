@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "89d29e338d3ee4bf85fccf0ef016959dea459fef1c71a3956e4143aecb5910e2"
+hash = "e64577ffd5361e3b79d7c1d0a79d5f2db8bf258982b1bbc8b903ab7d22e4d49b"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e7dc09b55cfd6b54262378768bbe6015f8c96462a52f90ea4cd7bd6336bf52af"
+hash = "e2433f9ad807594c7a8d6d6f7942355857d2d9e962499e274886e0800a48e3a0"
 metafile = true
 
 [[files]]
@@ -392,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "b74d359e38f59c6cb6c916dfdc82c7ccab6197988a171396e0d8474e55a9223c"
+hash = "e6b776afed7c97e107ed03285ea1b3970a265b27a883410c3faaee27db1b6d41"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "7811cc6c37087fccbb33f90481030fba9939a68241128b6ed92bfb03c5d7213f"
+hash = "69f7a82bb3198a4f07cf6961e7f063b88506f562b784d18f955b2bc1b6e813d0"
 metafile = true
 
 [[files]]
@@ -534,7 +534,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "8a617578b75c17f7f978db63b60459e4ab671a077771608c230de33dcb48ddab"
+hash = "1519b9b6f36e55614c76c7321620917507fd0f90c2ce95cdacd673da9d9c5218"
 metafile = true
 
 [[files]]
