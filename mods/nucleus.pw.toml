@@ -1,0 +1,13 @@
+name = "Nucleus"
+filename = "nucleus-1.18.2-6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5db78d2858ec3dacf2cc299b6b535211d1dcee6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3827670
+project-id = 282063

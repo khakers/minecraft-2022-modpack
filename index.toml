@@ -122,6 +122,10 @@ hash = "ee6842d5149f3dacc17f1c3b7c9e8cdf55131185a98df5c5845cec52841f0096"
 metafile = true
 
 [[files]]
+file = "mods/assisted_progression-0.8.jar"
+hash = "b1eddf576dc1c0a190ff38ce404cbbf266cc1d478ef4ee3557f6098397eee7ae"
+
+[[files]]
 file = "mods/autoreglib.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
@@ -367,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "220d74cf423a1f736c6b8d9cde2bf207f94c782149a9ea2aebb82ae0323908c0"
+hash = "3e6d5d17bdaa70ae054b4ee2ed06fdad1f9b56cce452af0105d2956ea239a7da"
 metafile = true
 
 [[files]]
@@ -443,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-crashes-forge.toml"
 hash = "b429af69b8fe423cd300e424de038d16d11f1956717965770528f65048ef9e61"
+metafile = true
+
+[[files]]
+file = "mods/nucleus.pw.toml"
+hash = "5911bf862da3f3268b96229e6a3c255f3bab7b132659c7741a3ecc4d54ca1955"
 metafile = true
 
 [[files]]

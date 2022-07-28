@@ -925,3 +925,12 @@ Repurposed Structures
     apply, that proxy's public statement of acceptance of any version is
     permanent authorization for you to choose that version for the
     Library.
+
+Assisted Progression
+
+    Modification removing many unnecessary additions and porting the net launcher to utilize create backtank
+
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
+    http://creativecommons.org/licenses/by-nc-sa/4.0/
+
+    Created by: Paul Davis - pauljoda
