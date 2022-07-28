@@ -633,6 +633,16 @@ hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
 
 [[files]]
+file = "resourcepacks/repurposed-structures-advanced-peripherals-compat.pw.toml"
+hash = "8f693bccea70371254ef5c8152fceb32794fba3f2ccfb1866229022688b387a5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/repurposed-structures-better-dungeons-datapack.pw.toml"
 hash = "4ef4f30ad9a2d64e85f128ed3402901af6b8268333e8ccdda4b014e1574ea9f0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/repurposed-structures-farmers-delight-datapack.pw.toml"
+hash = "888a23e0a9f991ef9ea56c48d7cb4f0881c5c84fa6ff55a0ff5d893794e0c134"
 metafile = true
