@@ -356,6 +356,11 @@ hash = "083d76e454b804a014d85839ba2a014039ad8d442fafafc238f73795abf83fbd"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "9960eeca58e8e02471b78c736bf16e1d925464f138064e014dd479d0ecd87c40"
+metafile = true
+
+[[files]]
 file = "mods/jade.toml"
 hash = "49b7f862fe68e3601d35528fe062b5a68a34887ffc2ea1d852bf92017bd80774"
 metafile = true
@@ -514,8 +519,9 @@ hash = "97fecd322567a954ea537e61feb6e0f848f307790d2e8a155af427c5910a4a4d"
 metafile = true
 
 [[files]]
-file = "mods/smoothboot-mc1.18.2-1.0.0.jar"
-hash = "44cd1f78c1ac27525aae705c8e17e032346ddaf9e99fa3b5f821be65658644b9"
+file = "mods/smooth-boot-reloaded.pw.toml"
+hash = "a324d3d1904f018fd24bb1d03c3b00fa7adb0c920c2f798ab7fa49cb0a6cbaad"
+metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.toml"
