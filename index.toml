@@ -384,6 +384,11 @@ hash = "3e6d5d17bdaa70ae054b4ee2ed06fdad1f9b56cce452af0105d2956ea239a7da"
 metafile = true
 
 [[files]]
+file = "mods/jer-integration.pw.toml"
+hash = "b18db74eca477a7f1c5f920250b9429fb89fdd5d36382e34c94fc843697fa8cf"
+metafile = true
+
+[[files]]
 file = "mods/journeymap.toml"
 hash = "835c82536479104f6e7395cd94985a591c90e1ee528e3439d6d069540fd363ce"
 metafile = true
