@@ -103,7 +103,7 @@ hash = "358cf0ae8de4233ea83d717a65a9db949bac319da39d1f828c84eb9b9c5180d4"
 
 [[files]]
 file = "mods/advanced-chimneys.toml"
-hash = "5540623be639332ef071aa77e7996c27aac338f5378cf5187ecbab0cd62b6215"
+hash = "9a5f728c2a36701a41bf5c485fa2805c01133366184b8c77e176f8f0d1b69a44"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/build-guide.pw.toml"
-hash = "a39be740dbc82f390d4706f367240eaed90aea292771d6e1b726c3a36e9d0af1"
+hash = "a2b1071a24bf64e0250b7b98e89c55498ad29c49403b8141680f90c9eeeac00f"
 metafile = true
 
 [[files]]
@@ -500,7 +500,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollution-of-the-realms.toml"
-hash = "73d9f5b786357c1bb0ee7b54def3c4024ba5e57bd5b58ef8b19479cd801fb81c"
+hash = "1edb674bf30fb649199bac7414797bac1227dd7ce4f666806c2ed09312edce6c"
 metafile = true
 
 [[files]]
