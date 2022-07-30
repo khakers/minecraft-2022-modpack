@@ -195,6 +195,11 @@ hash = "5f236f234d031f221d12e077ed27da06adf2808d8538eb98277729e55715ee50"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+hash = "d8f519cff7d15d98b232f4ecd2645a621f203580123a5dee937decebdceb8e60"
+metafile = true
+
+[[files]]
 file = "mods/chunky-pregenerator-forge.toml"
 hash = "27e58c4a5a2ddab95aab95c29c5af5273a5cf097ad22c766fda2e93c02056d2c"
 metafile = true
