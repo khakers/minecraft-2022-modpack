@@ -3,6 +3,7 @@ Binary (.jar) file licenses
 Curious Lanterns
     
     created by Psilock1
+    LGPL-3.0
 
     Copyright (C) 2007 Free Software Foundation, Inc. http://fsf.org
 
@@ -928,9 +929,15 @@ Repurposed Structures
 
 Assisted Progression
 
-    Modification removing many unnecessary additions and porting the net launcher to utilize create backtank
+    Modification removing many unnecessary additions and porting the net launcher to utilize create backtank. Changed recipues
 
     Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License:
     http://creativecommons.org/licenses/by-nc-sa/4.0/
 
     Created by: Paul Davis - pauljoda
+
+Alex's Mobs
+    LGPL-3.0
+
+    No changes, just a build of the most recent 1.18.2 branch that has some fixes. No license file is provided.
+

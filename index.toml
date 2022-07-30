@@ -117,6 +117,10 @@ hash = "5fe98822fbe3adef3dcdac8343ca57178cd80b29088f3933a203ec86416ac8c7"
 metafile = true
 
 [[files]]
+file = "mods/alexsmobs-1.18.7.jar"
+hash = "5d511fae15f219bf9ab7cd1b487e695bf338e899035f7fa63c234c703bbce4fa"
+
+[[files]]
 file = "mods/architectury-forge.toml"
 hash = "ee6842d5149f3dacc17f1c3b7c9e8cdf55131185a98df5c5845cec52841f0096"
 metafile = true
@@ -193,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/chunky-pregenerator-forge.toml"
 hash = "27e58c4a5a2ddab95aab95c29c5af5273a5cf097ad22c766fda2e93c02056d2c"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
 metafile = true
 
 [[files]]
