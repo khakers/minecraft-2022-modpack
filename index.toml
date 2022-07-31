@@ -369,6 +369,11 @@ hash = "611923d145de1b911e612479fa3edc60364a466a55f5c77dc8e55a91e2ec74a7"
 metafile = true
 
 [[files]]
+file = "mods/idas.pw.toml"
+hash = "85efb00b883ad9abc985dba47cce8adbfbb28b3ea0c110c992d577ce9cdc3ee2"
+metafile = true
+
+[[files]]
 file = "mods/immersive-weathering-forge.pw.toml"
 hash = "083d76e454b804a014d85839ba2a014039ad8d442fafafc238f73795abf83fbd"
 metafile = true
