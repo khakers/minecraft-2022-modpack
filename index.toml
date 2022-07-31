@@ -299,6 +299,11 @@ file = "mods/curiouslanterns-1.18.2-1.1.0.jar"
 hash = "0cbc81bd43ff7a90642c91fcd30a2b6163bbebcc61e12a705b2eb297792fe245"
 
 [[files]]
+file = "mods/daves-building-extended.pw.toml"
+hash = "99ef3da8fcf42c2fa5716254f38eff8ee1160f0e64826c68cfd1993c273efc85"
+metafile = true
+
+[[files]]
 file = "mods/decorative-blocks.toml"
 hash = "ebc7fe70140c268917e096a5aefcdd4981378eef19e1db5a6381ae6e75486aff"
 metafile = true
