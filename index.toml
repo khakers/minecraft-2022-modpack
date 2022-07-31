@@ -126,8 +126,8 @@ hash = "c1971bbf9a1f6767db16e58e316a5e45d9185abf5c1d0d19711c3520a863327c"
 metafile = true
 
 [[files]]
-file = "mods/assisted_progression-0.8.jar"
-hash = "b1eddf576dc1c0a190ff38ce404cbbf266cc1d478ef4ee3557f6098397eee7ae"
+file = "mods/assisted_progression-0.9.jar"
+hash = "3445cc65f50e47580c2fb34333a0c1a3f716bfdb5f5b8bb92f7c077ba58540e0"
 
 [[files]]
 file = "mods/autoreglib.toml"

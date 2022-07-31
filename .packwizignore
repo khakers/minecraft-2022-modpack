@@ -18,3 +18,5 @@
 *.mrpack
 
 README.txt
+index.html
+builds/**
