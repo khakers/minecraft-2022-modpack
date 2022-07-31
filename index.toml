@@ -122,7 +122,7 @@ hash = "5d511fae15f219bf9ab7cd1b487e695bf338e899035f7fa63c234c703bbce4fa"
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "ee6842d5149f3dacc17f1c3b7c9e8cdf55131185a98df5c5845cec52841f0096"
+hash = "c1971bbf9a1f6767db16e58e316a5e45d9185abf5c1d0d19711c3520a863327c"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/chalk.pw.toml"
-hash = "d8f519cff7d15d98b232f4ecd2645a621f203580123a5dee937decebdceb8e60"
+hash = "0e93dc6a684bfe7af69c53e5c200d1d435e23e3c724f25f959f9f72411bdb2ea"
 metafile = true
 
 [[files]]
@@ -558,7 +558,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "4048cce544b50801275b6bb6ee7054ba82d0c4d9a95e9e9d574773ec009eba6f"
+hash = "ea937bdcfb133d8c2d1f964fc9c896b29813c34b727b1c1ab06906c0612ca358"
 metafile = true
 
 [[files]]
@@ -568,7 +568,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1519b9b6f36e55614c76c7321620917507fd0f90c2ce95cdacd673da9d9c5218"
+hash = "58ac82752c12e5564094c2c57a2007171505a1a5f42e881997caa8fd24fd5b57"
 metafile = true
 
 [[files]]
