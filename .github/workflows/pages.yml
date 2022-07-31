@@ -27,13 +27,12 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-      - name: Setup Pages
-        uses: actions/configure-pages@v1
-
+      
       - name: Setup Go environment
         uses: actions/setup-go@v2.1.5
         with:
           go-version: 1.18
+      
       - uses: actions/cache@v2
         with:
           path: |
@@ -56,6 +55,9 @@ jobs:
         
 #       - name: generate modrinth modpack
 #         run: packwiz modrinth export -o ./builds/modrinth.mrpack
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v1
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
@@ -63,13 +65,12 @@ jobs:
           # Upload entire repository
           path: '.'
 
-#       - name: generate server curseforge modpack
-#         run: packwiz curseforge export --side server 
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
