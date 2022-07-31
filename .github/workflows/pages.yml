@@ -55,7 +55,7 @@ jobs:
         run: packwiz curseforge export --side client -o ./builds/curseforge.zip
         
       - name: generate modrinth modpack
-        run: packwiz modrinth export --side client -o ./builds/modrinth.mrpack
+        run: packwiz modrinth export -o ./builds/modrinth.mrpack
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
