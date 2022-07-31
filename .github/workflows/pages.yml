@@ -46,9 +46,6 @@ jobs:
             
       - name: Install packwiz
         run: go install github.com/packwiz/packwiz@latest
-        
-      - name: Generate subfolders
-        run: mkdir ./builds
 
       - name: generate curseforge modpack
         run: packwiz curseforge export --side client -o ./builds/curseforge.zip
