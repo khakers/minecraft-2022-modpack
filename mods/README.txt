@@ -692,9 +692,10 @@ Rubidium Extras:
     Curseforge states LGPL-3.0, mods.toml states WTFPL
     Have fun figuring that out
 
-
     Zoom functionality and REI tweaks have been removed. The FPS display implementation has been slightly changed
     See forked repo for full changes.
+    https://github.com/khakers/MagnesiumExtras
+
 
     GNU LESSER GENERAL PUBLIC LICENSE
     Version 3, 29 June 2007

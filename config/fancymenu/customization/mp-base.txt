@@ -197,7 +197,7 @@ customization {
   action = addbutton
   y = -16
   label = Join Server
-  value = create22.duckdns.org
+  value = minecraft.unturned.info
   height = 20
 }
 
@@ -214,7 +214,7 @@ customization {
   y = -15
   delayappearance = true
   alignment = left
-  value = Server Status: %serverstatus:create22.duckdns.org%
+  value = Server Status: %serverstatus:minecraft.unturned.info%
   delayappearanceeverytime = true
 }
 
@@ -231,7 +231,7 @@ customization {
   y = 6
   delayappearance = true
   alignment = left
-  value = Players: %serverplayercount:create22.duckdns.org%
+  value = Players: %serverplayercount:minecraft.unturned.info%
   delayappearanceeverytime = true
 }
 
@@ -248,7 +248,7 @@ customization {
   y = -4
   delayappearance = true
   alignment = left
-  value = Server Ping: %serverping:create22.duckdns.org% MS
+  value = Server Ping: %serverping:minecraft.unturned.info% MS
   delayappearanceeverytime = true
 }
 
@@ -263,7 +263,7 @@ customization {
   action = addbutton
   y = 68
   label = Modpack Source
-  value = https://github.com/khakers/minecraft-2022-modpack
+  value = https://github.com/khakers/minecraft-2022-modpack/tree/july-update
   height = 20
 }
 
