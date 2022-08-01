@@ -1,0 +1,8 @@
+name = "Rubidium Extras"
+filename = "rubidium_extras-1.18.2_v1.4.0-alpha.jar"
+side = "client"
+
+[download]
+url = "https://github.com/khakers/MagnesiumExtras/releases/download/1.4.0-alpha/rubidium_extras-1.18.2_v1.4.0-alpha.jar"
+hash-format = "sha1"
+hash = "3DE1DBE24BE3C5E6122D361834B975404CDF5679"

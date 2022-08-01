@@ -688,9 +688,10 @@ Immersive FX
 --------------------------------------------------------------------------
 
 Rubidium Extras:
-    LGPL-3.0-only
+    LGPL-3.0-only OR WTFPL
+    Curseforge states LGPL-3.0, mods.toml states WTFPL
+    Have fun figuring that out
 
-    highly unclear from code if this is correct, but Curseforge has it listed as this.
 
     Zoom functionality and REI tweaks have been removed. The FPS display implementation has been slightly changed
     See forked repo for full changes.

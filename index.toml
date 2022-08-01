@@ -538,13 +538,14 @@ hash = "6060f946f071cec9b66f96040bf36901241bce5e1d1de7bf2ba485dbea83df98"
 metafile = true
 
 [[files]]
-file = "mods/rubidium.pw.toml"
-hash = "69b69540e29a90ddc568d454882eddee3dd80c6789b56a1d2da86ea721f8a513"
+file = "mods/rubidium-extras.pw.toml"
+hash = "82876541e1a1f3197c5fccedd044a79dd88fc9fe1bc277e50a0c052fbefd3c11"
 metafile = true
 
 [[files]]
-file = "mods/rubidium_extras-1.18.2_v1.3.3-alpha+patch-no-jei.jar"
-hash = "ab0b9f7985341d06453bd4b23b3f03b8c2a7335f6bb64daf5356bd748646d9a0"
+file = "mods/rubidium.pw.toml"
+hash = "69b69540e29a90ddc568d454882eddee3dd80c6789b56a1d2da86ea721f8a513"
+metafile = true
 
 [[files]]
 file = "mods/selene.toml"
