@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/chalk.pw.toml"
-hash = "715c4c71476adf8fd128386d2e299948991e989278e8f94f47d7f11d008eba9b"
+hash = "5d6968ab1387b973b13384e1be80ab1f24deebdd0171c1336096d0fe7d1df3cc"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-deco.toml"
-hash = "79f1c24ecdd631b0282a4a4a32e9f25da2ac3c74d13e577eafb06a8ffdfbbcfb"
+hash = "ff08408a6cd91e18645d3992dad6ee6d000c3ef10d4792280f8693729f87f232"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ hash = "0cbc81bd43ff7a90642c91fcd30a2b6163bbebcc61e12a705b2eb297792fe245"
 
 [[files]]
 file = "mods/daves-building-extended.pw.toml"
-hash = "ee09b1bdfab07139d0aa0dbe8dd04d9d653587ac92750bac29865e22bc25c66a"
+hash = "bc0fad248f8a1e5c688cb4f708a26dc0528687226c685488745239cb88347af6"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "7a0918aa1e1e45bf850ed23873ab9176ed9509a7f82c802e02de806cf6d93eb1"
+hash = "8b0f1e501627bd1ba1b6757c29063cde0b9d2c49808398db296a6b1f54eed71e"
 metafile = true
 
 [[files]]
@@ -390,12 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "62fa6910ee59ed4fb18de8948b549256f36951ba6496f8e0659162b20f2eaa25"
-metafile = true
-
-[[files]]
-file = "mods/jer-integration.pw.toml"
-hash = "b18db74eca477a7f1c5f920250b9429fb89fdd5d36382e34c94fc843697fa8cf"
+hash = "71a8fa0be5b104ef1e9cfd11936c7c66bb4c8ceb759d2c715d4e7f88292b0f49"
 metafile = true
 
 [[files]]
@@ -425,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "78f183b5f49e725daa7c6576e9f390370a0795bd380d4d96810037d4b6f17b02"
+hash = "36d37ce5b263363078240088f6c5f204779474ab6001c5be2866efbfcced24fa"
 metafile = true
 
 [[files]]
@@ -495,7 +490,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "f3f1aefa6bd088d2bd817cd7601000d5737b211ab87203d10419f50a1c1eafab"
+hash = "8d66fd2084cae45139e4ff384d66f24a8c5f696af609979c449dfda7eaf39ddc"
 metafile = true
 
 [[files]]
@@ -529,7 +524,7 @@ hash = "43118e7ebe3a055a59737ca2c7bdcdcf6258ab05e7bac75b48ad91d0265f9364"
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "3fc88eca450f5e1421de45926943a49010e8dbdcf8b71f1728313a3b292e947f"
+hash = "7615d1d69859aadc88bfd81bf58eb8acdb1b64362e4118255dbfd875f9f0fbd1"
 metafile = true
 
 [[files]]
@@ -560,11 +555,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "a324d3d1904f018fd24bb1d03c3b00fa7adb0c920c2f798ab7fa49cb0a6cbaad"
-metafile = true
-
-[[files]]
-file = "mods/snow-real-magic.toml"
-hash = "e29523e1e858e44c58d1a512999e632db6213dc806451625bdcc69e8d86b96b1"
 metafile = true
 
 [[files]]
@@ -609,7 +599,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.toml"
-hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
+hash = "af9a82c5bc1be8c4c52ca93a14349a72ec1196b1008b0906eb32620c49559a7c"
 metafile = true
 
 [[files]]
