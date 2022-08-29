@@ -1,14 +1,13 @@
 name = "Create Deco"
-filename = "createdeco-1.2.10-alpha-1.18.2.jar"
+filename = "createdeco-1.2.10-1.18.2.jar"
 side = "both"
 
 [download]
-url = "https://github.com/khakers/CreateDeco/releases/download/1.2.10-alpha%2B1/createdeco-1.2.10-alpha+1-1.18.2.jar"
-hash-format = "sha256"
-hash = "9F064BDCEA227413A33DB687B1D705BE2C29A6F73CE6B9609D0B0CF1B10E8D2D"
-# mode = "metadata:curseforge"
+hash-format = "sha1"
+hash = "78a4b3625113f2f24c0f041853a86aff67ed8b33"
+mode = "metadata:curseforge"
 
 [update]
-# [update.curseforge]
-# file-id = 3922607
-# project-id = 509285
+[update.curseforge]
+file-id = 3956169
+project-id = 509285
