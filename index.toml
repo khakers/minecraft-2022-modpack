@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/idas.pw.toml"
-hash = "7506ef21500655873fde5850e2cd42a378e3c1d140f6e7bc390c5faa28342b1c"
+hash = "c262f179cb5a293e6aef0a35ae1cabc4ea2ee5f8057ce68c8d43f525f85bc668"
 metafile = true
 
 [[files]]
